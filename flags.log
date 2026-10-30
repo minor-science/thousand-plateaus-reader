@@ -1,0 +1,20 @@
+[¶1] NOTE FLAG: French OCR has fn. 1 text interleaved in body ("1 . Le livre principal de Dumézil à cet égard est Mitra-Varuna..."); routed to foot of Column 4.
+[¶2] NOTE FLAG: French OCR has fn. 2, 3, and 4 texts interleaved in body mid-sentence ("son « coup 2. Le thème..."); all three routed to foot of Column 4.
+[¶2] QUOTE FLAG: body — «il lie sans combat» / "he binds without combat" — attributed to Dumézil, *Mitra-Varuna* (one of pp. 113–114, 151, 202–203); verified text needed.
+[¶2] QUOTE FLAG: body — «coup une fois pour toutes» — source uncertain; possibly D&G's own formulation or loose paraphrase of Dumézil; verified text needed.
+[¶2] QUOTE FLAG: fn. 4 — Dumézil, *Mitra-Varuna*, p. 150 — literal translation provided; Massumi restores English original (likely Coltman trans., Zone Books, 1988); verified text needed.
+[¶3] NOTE FLAG: fn. 5 marker appears in body as OCR artifact "s" after "traître"; fn. 5 text ("Idem, pp. 124-132") is in ¶4 OCR block — will be routed there.
+[¶4] NOTE FLAG: French OCR page-running-header "A PPAREIL DE CAPTURE rai lle t pol i t i q u e" splits "souveraineté politique" mid-sentence; reconstructed in Column 4. Fn. 5 text routed here from ¶3; fn. 6 text also interleaved in OCR body.
+[¶4] QUOTE FLAG: long quotation from Jünger, *Abeilles de verre* (= *The Glass Bees*, trans. Bogan & Mayer, Noonday Press, 1960, p. 112) — literal translation from French provided; Massumi restores English original with modifications; verified text needed.
+[¶5] NOTE FLAG: fn. 7 marker at "(isonomie comme loi, isotropie comme espace 7)"; fn. 7 text (Détienne/Vernant references) is interleaved in ¶6 OCR block — will be routed to ¶6.
+[¶6] NOTE FLAG: fn. 7 text interleaved mid-word in OCR body (splitting "premier" as "pre[fn7+page531]mier"); routed to foot of Column 4.
+[¶7] NOTE FLAG: fn. 8 text interleaved at end of OCR block; multiple OCR artifacts in fn. 8 ("wus"=*sous*, "Pepi !('r"=*Pepi Ier*, "l'entre·prise"=*l'entreprise*, "Mitra-Varuna)"=*Mitra-Varuna,*); "propriété prhée" in body = *propriété privée*.
+[¶7] QUOTE FLAG: fn. 8 — Harmand, *La guerre antique*, PUF, p. 28 — quoted; verified French text needed; Massumi endnote provides English rendering.
+[13¶77] SOURCE NOTE (reader, Oct 29): the gloss « we have the privilege of undergoing » sits after « à la fois » in Column 4, but it translates « nous avons le privilège de subir »; likely an RTF misplacement. The reader overrides it; the row itself needs fixing.
+[13¶49 13¶50 13¶54 13¶103] GAP NOTE (reader, Oct 29): the annotated cell stops before the end of the French (13¶49 after « il n'y a ni voleur ni volé »; 13¶50 after « en survie »; 13¶54 after « l'instance supérieure »; 13¶103 at « It… »). The reader marks the rest 'Not annotated in the variorum.'
+[13¶49] SWAPPED 20261029-212246: corrected row from corrections_p13.md now in the master (backup variorum_from_rtf.20261029-212246.md).
+[13¶50] SWAPPED 20261029-212246: corrected row from corrections_p13.md now in the master (backup variorum_from_rtf.20261029-212246.md).
+[13¶54] SWAPPED 20261029-212246: corrected row from corrections_p13.md now in the master (backup variorum_from_rtf.20261029-212246.md).
+[13¶49 13¶50 13¶54] RESOLVED (Oct 29): annotation completed to the end of the French cell via corrections_p13.md and swap_corrections.py --plateau 13 (drafted automatically by the method; ¶50 adds the de sens and en survie glosses the RTF had cut, and the point d'inversion and déjà travaillés glosses that ¶85 and ¶71 cross-refer to). [13¶103] RESOLVED: not a gap; the reader misplaced the « 7. Propositions indécidables » sentence (fixed in align_sentences.split).
+[13¶77] SWAPPED 20261029-214345: corrected row from corrections_p13.md now in the master (backup variorum_from_rtf.20261029-214345.md).
+[13¶77] RESOLVED (Oct 29): the « we have the privilège of undergoing » gloss moved to follow « Nous avons le privilège de subir » via corrections_p13.md and swap.
