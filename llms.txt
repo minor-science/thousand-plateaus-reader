@@ -1,6 +1,6 @@
 # A Thousand Plateaus reader
 
-> A reading interface by Andrew Culp for plateaus 12 and 13 of Deleuze and Guattari's A Thousand Plateaus. Each chunk shows the Minuit French, Brian Massumi's Minnesota English and an annotated translation, lined up sentence by sentence, with Massumi's endnotes, short glosses after French words, a lexicon of terms, search and page jump. The page is built with JavaScript.
+> A reading interface by Andrew Culp and the A Thousand Plateaus research group of The Public School Los Angeles for plateaus 12 and 13 of Deleuze and Guattari's A Thousand Plateaus. Each chunk shows the Minuit French, Brian Massumi's Minnesota English and an annotated translation, lined up sentence by sentence, with Massumi's endnotes, short glosses after French words, a lexicon of terms, search and page jump. The page is built with JavaScript.
 
 The annotated translation, glosses and lexicon were drafted with machine assistance and have not all been reviewed.
 
@@ -11,4 +11,5 @@ The annotated translation, glosses and lexicon were drafted with machine assista
 - [Nomadology reference](https://minor-science.github.io/nomadology-reference/): reference sheets on plateaus 12 and 13
 - [Source code](https://github.com/minor-science): GitHub organization
 - [Andrew Culp](https://andrewculp.org/): author
+- [The Public School Los Angeles](https://www.instagram.com/thepublicschoolla/): its A Thousand Plateaus research group, co-author
 - [an.archeology](https://www.instagram.com/an.archeology/): the author's current project, depicting Anarcheology of Power
